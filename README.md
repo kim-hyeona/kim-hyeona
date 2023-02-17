@@ -1,7 +1,10 @@
+![header](https://capsule-render.vercel.app/api?type=slice&&text=Hello%20World!animation=fadeIn&desc=Hello%20capsule%20render)
 
 <h1 align="center">
 Hi there 👋
 <div>
+
+
 
 &nbsp;
 
@@ -23,10 +26,11 @@ Hi there 👋
  
  
  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kim-hyeona&langs_count=8)](https://github.com/kim-hyeona/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-hyeona&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kim-hyeona&langs_count=8)](https://github.com/kim-hyeona/github-readme-stats)
+
 
 <!--
 **kim-hyeona/kim-hyeona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
