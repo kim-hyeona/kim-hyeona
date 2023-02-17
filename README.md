@@ -8,8 +8,6 @@ Hi there 👋
 
 
 
-&nbsp;
-
 <h5 align="center">I can do it.</h5>
 <div align="center">
 🔧
