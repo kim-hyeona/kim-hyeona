@@ -21,11 +21,16 @@ Hi there 👋
  
  
  
+ 
+ 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-hyeona&show_icons=true&theme=radical)
 
 
+ 
+ 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kim-hyeona&langs_count=8)](https://github.com/kim-hyeona/github-readme-stats)
 
 <!--
 **kim-hyeona/kim-hyeona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
