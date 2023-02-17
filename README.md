@@ -18,9 +18,9 @@ Hi there 👋
 🔧
 </div>
 
-<div>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-hyeona&show_icons=true&theme=radical)
-</div>
+
 
 
 
