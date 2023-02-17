@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Cylinder&text=Hello%20World!&animation=fadeIn&desc=Hello%20capsule%20render)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&text=Hello%20World!&animation=fadeIn)
 
 <h1 align="center">
 Hi there 👋
