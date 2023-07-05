@@ -1,33 +1,14 @@
-![header](https://capsule-render.vercel.app/api?type=Cylinder&text=Hello%20World!&animation=fadeIn)
-
-
-<div align="center">
-<h1 align="center">
-Hi there 👋
-<h1>
-<h4 align="center">I can do it.</h4>
-<h1 >Hi there 👋<h1>
-<h4 >I can do it.</h4>
-<div align="center">
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 🔧
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
+</div>
 
+ </br>
+</br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kim-hyeona&langs_count=8)](https://github.com/kim-hyeona/github-readme-stats)
 
-
-
-
-
-
-
-
-
-
-<!--
-**kim-hyeona/kim-hyeona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+</div>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...ㅇㄹㅇㄹ
 - 👯 I’m looking to collaborate on ...
