@@ -13,6 +13,8 @@
 🔧
 
 </div>
+
+<div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kim-hyeona&langs_count=8)](https://github.com/kim-hyeona/github-readme-stats)
 
 </div>
