@@ -25,11 +25,14 @@
 
 <br>
 
+/*
 ### 📝 studying 
 <div align-items: center;>
 <img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/vue-4FC08D?style=flat&logo=vuedotjs&logoColor=white" />
 </div>
+
+*/
 
 <br>
 
