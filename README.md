@@ -17,6 +17,9 @@
 <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=flat&logo=JavaScript&logoColor=white" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
 <img src="https://img.shields.io/badge/Next-000000?style=flat&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/vue-4FC08D?style=flat&logo=vuedotjs&logoColor=white" />
+
 <br>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" />
@@ -25,14 +28,10 @@
 
 <br>
 
-/*
+
 ### 📝 studying 
 <div align-items: center;>
-<img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/vue-4FC08D?style=flat&logo=vuedotjs&logoColor=white" />
 </div>
-
-*/
 
 <br>
 
