@@ -37,4 +37,4 @@
 
 
 ## 🤔
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kim-hyeona&layout=compact)](https://github.com/kim-hyeona/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kim-hyeona&layout=compact)
