@@ -2,7 +2,7 @@
 
 # 반갑습니다! 프론트엔드 개발자 김현아입니다
 🤍 Email : kimha9@naver.com <br>
-💙 Blog : [회고와 공부기록](https://velog.io/@kimha9)<br>
+💙 Blog : [회고와 공부기록](https://my-blog-app-qvq8.vercel.app/)<br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkim-hyeona%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br>
