@@ -62,6 +62,3 @@
 - [화장실 지도](https://toilet-map-tawny.vercel.app)
 - [linkhub](https://linkhub-gold.vercel.app)
 
-
-## 🤔
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kim-hyeona&layout=compact)
