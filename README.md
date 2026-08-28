@@ -7,7 +7,7 @@
 
 
 💌 Email : [kimha9@naver.com](mailto:kimha9@naver.com)
-📝 Blog : [NEVER SLEEP - 회고와 공부기록](여기에_블로그_주소)
+📝 Blog : [NEVER SLEEP - 회고와 공부기록](https://my-blog-app-qvq8.vercel.app/)
 
 
 
