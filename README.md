@@ -62,3 +62,5 @@
 - [화장실 지도](https://toilet-map-tawny.vercel.app)
 - [linkhub](https://linkhub-gold.vercel.app)
 
+<img width="320" height="320" alt="run_linux" src="https://github.com/user-attachments/assets/2823cf12-c07d-43b3-aff9-a52e4f5ad596" />
+<p> 뛰어라..... </p> 
